@@ -1,4 +1,4 @@
-# Awesome Privacy Papers in Visual Data
+# Awesome Privacy Papers for Visual Data
 Deep learning papers that address the issue of privacy in visual data.
 
 ## 2020
