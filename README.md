@@ -2,6 +2,7 @@
 Deep learning papers that address the issue of privacy in visual data.
 
 ## 2020
+- **Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models** - S. Shan, E. Wenger, J. Zhang, H. Li, H. Zheng, B. Y. Zhao [[PDF]](https://arxiv.org/abs/2002.08327)
 - **PrivacyNet: Semi-Adversarial Networks for Multi-attribute Face Privacy** - V. Mirjalili, S. Raschka, A. Ross. [[PDF]](https://arxiv.org/pdf/2001.00561v1.pdf)
 
 ## 2019
