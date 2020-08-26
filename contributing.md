@@ -12,7 +12,7 @@ Edit [README.md](README.md) and create [Pull Request](https://help.github.com/ar
 You should ensure that:
 - Your suggestion is not already in the list.
 - There are no spelling or grammatical errors.
-- Suggestions are under the right year and in the format `Article name - Authors. [PDF](link)`
+- Suggestions are under the right year and in the format `Article name - Authors [PDF](link)`
 
 Thank you for your suggestions!
 
