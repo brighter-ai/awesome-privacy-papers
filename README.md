@@ -1,8 +1,27 @@
-# Awesome Privacy Papers for Visual Data
+# Awesome Privacy Papers for Visual Data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Deep learning papers that address the issue of privacy in visual data.
 
+
+## Contents
+
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
+- [2017](#2017)
+- [2016](#2016)
+- [2015](#2015)
+- [2014](#2014)
+- [2009](#2009)
+- [2006](#2006)
+- [2005](#2005)
+- [2004](#2004)
+- [2003](#2003)
+- [2000](#2000)
+
+
 ## 2020
-- **Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models** - S. Shan, E. Wenger, J. Zhang, H. Li, H. Zheng, B. Y. Zhao [[PDF]](https://arxiv.org/abs/2002.08327)
+- **Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models** - S. Shan, E. Wenger, J. Zhang, H. Li, H. Zheng, B. Y. Zhao. [[PDF]](https://arxiv.org/abs/2002.08327)
 - **PrivacyNet: Semi-Adversarial Networks for Multi-attribute Face Privacy** - V. Mirjalili, S. Raschka, A. Ross. [[PDF]](https://arxiv.org/pdf/2001.00561v1.pdf)
 - **Adversarial Privacy-preserving Filter** - Jiaming Zhang, Jitao Sang, Xian Zhao, Xiaowen Huang, Yanfeng Sun, Yongli Hu. [[PDF]](https://arxiv.org/pdf/2007.12861.pdf)
 
@@ -63,3 +82,8 @@ Deep learning papers that address the issue of privacy in visual data.
 
 ## 2000
 - **The Effects of Filtered Video on Awareness and Privacy** - M. Boyle, C. Edwards, S. Greenberg. [[PDF]](http://grouplab.cpsc.ucalgary.ca/grouplab/uploads/Publications/Publications/2000-FilteredVideo.Report2000-657-09.pdf)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
