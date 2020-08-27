@@ -27,7 +27,7 @@ Deep learning papers that address the issue of privacy in visual data.
 
 ## 2019
 - [Live Face De-Identification in Video](https://arxiv.org/abs/1911.08348) - O. Gafni, L. Wolf. Y. Taigman.
-- [Password-conditioned Anonymization and Deanonymization with Face Identity Transformers](https://arxiv.org/abs/1911.11759) - X. Gu, W. Luo, M. S. Ryoo, Y. Jae Lee.
+- [Password-conditioned Anonymization and Deanonymization with Face Identity Transformers](https://arxiv.org/abs/1911.11759) - X. Gu, W. Luo, M. S. Ryoo, Y. Jae Lee - Authors present a privacy-preserving face identity transformer with a password embedding scheme, multimodal identity change, and a multi-task learning objective. Given the right password, it has the ability to recover the original input, but will return a wrong face when presented with incorrect password.
 - [AnonymousNet: Natural Face De-Identification with Measurable Privacy](https://arxiv.org/abs/1904.12620) - T. Li, L. Lin.
 - [DeepPrivacy: A Generative Adversarial Network for Face Anonymization](https://arxiv.org/abs/1909.04538) - H. Hukkelås, R. Mester, F. Lindseth.
 - [FlowSAN: Privacy-enhancing Semi-Adversarial Networks to Confound Arbitrary Face-based Gender Classifiers](https://arxiv.org/abs/1905.01388) - V. Mirjalili, S. Raschka, A. Ross.
