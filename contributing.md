@@ -5,14 +5,15 @@ Please note that this project is released with a
 project you agree to abide by its terms.
 
 
-## Adding to the list
+## Adding paper to the list
 
 Edit [README.md](README.md) and create [Pull Request](https://help.github.com/articles/using-pull-requests/). 
 
 You should ensure that:
+- Your suggestion addresses the issue of privacy in visual data.
 - Your suggestion is not already in the list.
 - There are no spelling or grammatical errors.
-- Suggestions are under the right year and in the format `Article name - Authors [PDF](link)`
+- Suggestions are under the right year and in the format `[Article name](link) - Authors.`
 
 Thank you for your suggestions!
 
