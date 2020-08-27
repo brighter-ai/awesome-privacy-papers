@@ -12,8 +12,9 @@ Edit [README.md](README.md) and create [Pull Request](https://help.github.com/ar
 You should ensure that:
 - Your suggestion is related to the topic of privacy in visual data.
 - Your suggestion is not already in the list.
+- Your suggestion should be added at the bottom of the appropriate year category. 
+- Your suggestion should be in the format `[Article name](link) - Authors - Small description (link to code if exists).`
 - There are no spelling or grammatical errors.
-- Suggestions are under the right year and in the format `[Article name](link) - Authors - Small description (link to code if exists).`
 
 Thank you for your suggestions!
 
