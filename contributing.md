@@ -13,7 +13,7 @@ You should ensure that:
 - Your suggestion addresses the issue of privacy in visual data.
 - Your suggestion is not already in the list.
 - There are no spelling or grammatical errors.
-- Suggestions are under the right year and in the format `[Article name](link) - Authors.`
+- Suggestions are under the right year and in the format `[Article name](link) - Authors - Small description (link to code if exists).`
 
 Thank you for your suggestions!
 
