@@ -31,8 +31,8 @@ Deep learning papers that address the issue of privacy in visual data.
 - [AnonymousNet: Natural Face De-Identification with Measurable Privacy](https://arxiv.org/abs/1904.12620) - T. Li, L. Lin.
 - [DeepPrivacy: A Generative Adversarial Network for Face Anonymization](https://arxiv.org/abs/1909.04538) - H. Hukkelås, R. Mester, F. Lindseth.
 - [FlowSAN: Privacy-enhancing Semi-Adversarial Networks to Confound Arbitrary Face-based Gender Classifiers](https://arxiv.org/abs/1905.01388) - V. Mirjalili, S. Raschka, A. Ross.
-- [Unsupervised privacy-enhancement of face representations using similarity-sensitive noise transformations](https://doi.org/10.1007/s10489-019-01432-5) - P. Terhörst, N. Damer, F. Kirchbuchner, A. Kuijper.
-- [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/abs/1908.05932) - Y. Nirkin, Y. Keller, T. Hassner.
+- [Unsupervised privacy-enhancement of face representations using similarity-sensitive noise transformations](https://doi.org/10.1007/s10489-019-01432-5) - P. Terhörst, N. Damer, F. Kirchbuchner, A. Kuijper - Authors proposed similarity-sensitive noise transformations and dimensionality reduction techniques that work in an unsupervised manner and offer a privacy enhancement for multiply private attributes ([code](https://github.com/pterhoer/PrivacyPreservingFaceRecognition/blob/master/training_free/similiarity_sensitive_noise_transformation/similarity_sensitive_noise_transformation.py)).
+- [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/abs/1908.05932) - Y. Nirkin, Y. Keller, T. Hassner - Authors presented Face Swapping Generative Adversarial Network (FSGAN) for face swapping and reenactment, which can be applied to pairs of faces without requiring training on those faces and works both with single image and video sequence ([code](https://github.com/YuvalNirkin/fsgan)).
 
 ## 2018
 - [Learning to Anonymize Faces for Privacy Preserving Action Detection](https://arxiv.org/abs/1803.11556) - Z. Ren, Y. Jae Lee, M. S. Ryoo.
