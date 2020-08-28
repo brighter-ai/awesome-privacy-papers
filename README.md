@@ -2,9 +2,11 @@
 
 [<img src="logo.png" align="right" width="100">](https://brighter.ai)
 
-The ongoing revolution in analytics and AI requires enormous amount of visual data. At the same time it is social responsibility to respect privacy protection while working with visual data.
+The ongoing AI driven data analytics revolution requires an enormous amount of visual data. At the same time, it is a social responsibility to protect individuals privacy linked to these data.
 
-We do care deeply about privacy. To expand our knowledge base on this topic we do constant research in scientific community. Here we want to share with you list of deep learning papers related to the topic of privacy in visual data.
+We care deeply about privacy. To strengthen our knowledge in this field and understand how it relates to visual data, we do constant research in the latest scientific works about this topic.
+
+We want to share with you a curated list of machine/deep learning papers that address topic of privacy in visual data.
 
 
 ## Contents
