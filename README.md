@@ -6,7 +6,7 @@ The ongoing AI driven data analytics revolution requires an enormous amount of v
 
 We care deeply about privacy. To strengthen our knowledge in this field and understand how it relates to visual data, we do constant research in the latest scientific works about this topic.
 
-We want to share with you a curated list of machine/deep learning papers that address topic of privacy in visual data.
+We want to share with you a curated list of machine/deep learning papers that address the topic of privacy in visual data.
 
 
 ## Contents
