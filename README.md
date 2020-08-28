@@ -1,4 +1,4 @@
-# Awesome Privacy Papers for Visual Data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Privacy Papers for Visual Data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Twitter Follow](https://img.shields.io/twitter/follow/brighterai.svg?style=social)](https://twitter.com/brighterai)
 
 [<img src="logo.png" align="right" width="100">](https://brighter.ai)
 
