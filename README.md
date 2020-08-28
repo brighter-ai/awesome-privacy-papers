@@ -1,5 +1,7 @@
 # Awesome Privacy Papers for Visual Data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="logo.png" align="right" width="100">](https://brighter.ai)
+
 The ongoing revolution in analytics and AI requires enormous amount of visual data. At the same time it is social responsibility to respect privacy protection while working with visual data.
 
 We do care deeply about privacy. To expand our knowledge base on this topic we do constant research in scientific community. Here we want to share with you list of deep learning papers related to the topic of privacy in visual data.
