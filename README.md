@@ -89,8 +89,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 - [Engineering Privacy in Public: Confounding Face Recognition](https://doi.org/10.1007/978-3-540-40956-4_7) - J. Alexander, J. M. Smith.
 
 ## 2000
-- [The Effects of Filtered Video on Awareness and Privacy](https://doi.org/10.1145/358916.358935) - M. Boyle, C. Edwards, S. Greenberg.
-
+- [The Effects of Filtered Video on Awareness and Privacy](https://doi.org/10.1145/358916.358935) - M. Boyle, C. Edwards, S. Greenberg - Authors provide a study on how bluring and pixelation impacts privacy and attribute awareness in a video. They examine the following attributes - the number of actors, their posture, gender, busyness, seriousness, approachability and background objects.
 
 ## Contribute
 
