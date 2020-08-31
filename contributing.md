@@ -10,10 +10,11 @@ project you agree to abide by its terms.
 Edit [README.md](README.md) and create [Pull Request](https://help.github.com/articles/using-pull-requests/). 
 
 You should ensure that:
-- Your suggestion is related to the topic of privacy in visual data.
-- Your suggestion is not already in the list.
-- Your suggestion should be added at the bottom of the appropriate year category. 
-- Your suggestion should be in the format `[Article name](link) - Authors - Small description (link to code if exists).`
+- Your paper suggestion is related to the topic of privacy in visual data.
+- Your paper suggestion is not already in the list.
+- Your paper suggestion should be added at the bottom of the appropriate year category. 
+- Your paper suggestion should be in the format `[Paper name](link) - Authors - Short summary. [link to code if exists]`
+- Your paper suggestion should have a short summary of what the paper is about.
 - There are no spelling or grammatical errors.
 
 Thank you for your suggestions!
