@@ -73,7 +73,8 @@ We want to share with you a curated list of machine/deep learning papers that ad
 - [Face De-Identification](https://doi.org/10.1007/978-1-84882-301-3_8) - R. Gross, L. Sweeney, J. Cohn, F. de la Torre, S. Baker.
 
 ## 2006
-- [Model-Based Face De-Identification](https://doi.org/10.1109/CVPRW.2006.125) - R. Gross, L. Sweeney, F. de la Torre, S. Baker.
+- [Model-Based Face De-Identification](https://doi.org/10.1109/CVPRW.2006.125) - R. Gross, L. Sweeney, F. de la Torre, S. Baker - Authors introduce an algorithm for the protection of privacy in facial images, called *k*-Same-M algorithm, with focus on better image quality than its predecessors.
+
 - [People Identification with Limited Labels in Privacy-Protected Video](https://doi.org/10.1109/ICME.2006.262703) - Y. Chang, R. Yan, D. Chen, J. Yang.
 - [Blur Filtration Fails to Preserve Privacy for Home-Based Video Conferencing](https://doi.org/10.1145/1143518.1143519) - C. Neustaedter, S. Greenberg, M. Boyle - Authors begin by reinterpreting the result of previous study (Boyle et al. 2000), stating that bluring the video does not balance privacy and awareness for risky situations, since people do not feel comfortable with relying on such techniques. Secondly, they outline a set of design implications that suggest strategies for balancing privacy and awareness.
 
