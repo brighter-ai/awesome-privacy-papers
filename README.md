@@ -83,7 +83,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 
 ## 2004
 - [Blinkering Surveillance: Enabling Video Privacy through Computer Vision](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.68.4555) - A. W. Senior, S. Pankanti, A. Hampapur, L. M. Brown, Y. Tian, A. Ekin.
-- [Robust Human Face Hiding Ensuring Privacy](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4758) - I. Martinez-Ponte, X. Desurmont, J. Meessen, J-F. Delaigle.
+- [Robust Human Face Hiding Ensuring Privacy](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4758) - I. Martinez-Ponte, X. Desurmont, J. Meessen, J-F. Delaigle - Authors present a face detection and tracking system with the intention of masking the face, thus making it unrecognizible. They do that by employing a lossy compression algorithm.
 
 ## 2003
 - [Engineering Privacy in Public: Confounding Face Recognition](https://doi.org/10.1007/978-3-540-40956-4_7) - J. Alexander, J. M. Smith.
