@@ -79,7 +79,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 
 ## 2005
 - [Preserving Privacy by De-identifying Facial Images](https://doi.org/10.1109/TKDE.2005.32) - E. Newton, L. Sweeney, B. Malin.
-- [Integrating Utility into Face De-Identification](https://doi.org/10.1007/11767831_15) - R. Gross, E. Airoldi, B. Malin, L. Sweeney.
+- [Integrating Utility into Face De-Identification](https://doi.org/10.1007/11767831_15) - R. Gross, E. Airoldi, B. Malin, L. Sweeney - Authors provide a comprehensive study on how various de-identification methods preserve face attributes / data utility and introduce a de-identification method, which was at the time superior to prior methods in both privacy protection and utility preservation.
 
 ## 2004
 - [Blinkering Surveillance: Enabling Video Privacy through Computer Vision](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.68.4555) - A. W. Senior, S. Pankanti, A. Hampapur, L. M. Brown, Y. Tian, A. Ekin.
