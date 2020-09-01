@@ -67,7 +67,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 - [Controllable Face Privacy](https://doi.org/10.1109/FG.2015.7285018) - T. Sim, L. Zhang.
 
 ## 2014
-- [Privacy of Facial Soft Biometrics: Suppressing Gender But Retaining Identity](https://doi.org/10.1007/978-3-319-16181-5_52) - A. Othman, A. Ross.
+- [Privacy of Facial Soft Biometrics: Suppressing Gender But Retaining Identity](https://doi.org/10.1007/978-3-319-16181-5_52) - A. Othman, A. Ross - Authors explore the possibility of mixing face images of opposite genders to suppress the gender classification, while bearing sufficient similarity in terms of a face matcher.
 
 ## 2009
 - [Face De-Identification](https://doi.org/10.1007/978-1-84882-301-3_8) - R. Gross, L. Sweeney, J. Cohn, F. de la Torre, S. Baker.
