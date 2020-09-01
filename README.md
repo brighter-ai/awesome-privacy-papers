@@ -60,17 +60,17 @@ We want to share with you a curated list of machine/deep learning papers that ad
 - [De-identification for Privacy Protection in Multimedia Content: A Survey](https://doi.org/10.1016/j.image.2016.05.020) - S. Ribaric, A. Ariyaeeinia, N. Pavesic.
 
 ## 2015
-- [Towards privacy-preserving recognition of human activities](https://doi.org/10.1109/ICIP.2015.7351605) - J. Dai, B. Saghafi, J. Wu, J. Konrad, P. Ishwar.
+- [Towards privacy-preserving recognition of human activities](https://doi.org/10.1109/ICIP.2015.7351605) - J. Dai, B. Saghafi, J. Wu, J. Konrad, P. Ishwar - Authors studied and quantified the impact of camera resolution on action recognition accuracy in a simulated environment (Unity3D + Kinect v2). Results for a dataset of 12 individuals performing 4 actions indiate, somewhat surprisingly, that the recognition accuracy at single-pixel resolution can be quite close to that at 100 × 100 resolution, suggesting that reliable action recognition can be achieved without compromising occupant’s identity. [[project page](http://vip.bu.edu/projects/vsns/privacy-smartroom/)]
 - [Attribute Preserved Face De-identification](https://doi.org/10.1109/ICB.2015.7139096) - A. Jourabloo, X. Yin, X. Liu.
-- [The Privacy-Utility Tradeoff for Remotely Teleoperated Robots](https://doi.org/10.1145/2696454.2696484) - D. J. Butler, J. Huang, F. Rosener, M. Cakmak.
+- [The Privacy-Utility Tradeoff for Remotely Teleoperated Robots](https://doi.org/10.1145/2696454.2696484) - D. J. Butler, J. Huang, F. Rosener, M. Cakmak - Authors explore the privacy-utility tradeoff for remotely teleoperated robots in the home with two surveys that provide a framework for understanding the privacy attitudes of end-users, and with a user study that empirically examines the effect of different filters of visual information on the ability of a teleoperator to carry out a task.
 - [An Overview of Face De-identification in Still Images and Videos](https://doi.org/10.1109/FG.2015.7285017) - S. Ribaric, N. Pavesic.
-- [Controllable Face Privacy](https://doi.org/10.1109/FG.2015.7285018) - T. Sim, L. Zhang.
+- [Controllable Face Privacy](https://doi.org/10.1109/FG.2015.7285018) - T. Sim, L. Zhang - Authors apply a subspace decomposition onto face encoding scheme, effectively decoupling facial attributes such as gender, race, age, and identity into mutually orthogonal subspaces, which in turn enables independent control of these attributes. This approach protects identity privacy, and yet allows other computer vision analyses, such as gender detection, to proceed unimpeded.
 
 ## 2014
 - [Privacy of Facial Soft Biometrics: Suppressing Gender But Retaining Identity](https://doi.org/10.1007/978-3-319-16181-5_52) - A. Othman, A. Ross.
 
 ## 2009
-- [Face De-Identification](https://doi.org/10.1007/978-1-84882-301-3_8) - R. Gross, L. Sweeney, J. Cohn, F. de la Torre, S. Baker.
+- [Face De-Identification](https://doi.org/10.1007/978-1-84882-301-3_8) - R. Gross, L. Sweeney, J. Cohn, F. de la Torre, S. Baker - Authors introduce a novel de-identification framework using multi-factor models which unify linear, bilinear, and quadratic data models. They demonstrate that the algorithm protects privacy (as measured by face recognition performance) while preserving data utility (as measured by facial expression classification performance on de-identified images) and suggests that the new model extends directly to image sequences.
 
 ## 2006
 - [Model-Based Face De-Identification](https://doi.org/10.1109/CVPRW.2006.125) - R. Gross, L. Sweeney, F. de la Torre, S. Baker.
