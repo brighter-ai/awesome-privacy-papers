@@ -55,7 +55,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 
 ## 2016
 - [Privacy-CNH: A Framework to Detect Photo Privacy with Convolutional Neural Network using Hierarchical Features](https://www.cs.rochester.edu/u/jliu/paper/privacy-AAAI-2016.pdf) - L. Tram, D. Kong, H. Jin, J. Liu.
-- [Privacy-Preserving Human Activity Recognition from Extreme Low Resolution](https://arxiv.org/abs/1604.03196) - M. S. Ryoo, B. Rothrock, C. Fleming, H. J. Yang.
+- [Privacy-Preserving Human Activity Recognition from Extreme Low Resolution](https://arxiv.org/abs/1604.03196) - M. S. Ryoo, B. Rothrock, C. Fleming, H. J. Yang - Authors address human activity recognition while only using extreme low-resolution videos using an approach of *inverse super resolution*, with the intention of creating a computer vision system, that can recognize human activities and assist our daily life, yet ensure that it is not recording video, that may invade our privacy.
 - [Faceless Person Recognition: Privacy Implications in Social Media](https://arxiv.org/abs/1607.08438) - S. J. Oh, R. Benenson, M. Fritz, B. Schiele.
 - [De-identification for Privacy Protection in Multimedia Content: A Survey](https://doi.org/10.1016/j.image.2016.05.020) - S. Ribaric, A. Ariyaeeinia, N. Pavesic - In an extensive survey, authors present de-identification of various non-biometric as well as behavioural  and physiological identifiers. They announce some new directions in the de-identification research and point out the problems of detecting and removing social and environmental privacy sensitive context.
 
