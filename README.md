@@ -61,7 +61,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 
 ## 2015
 - [Towards privacy-preserving recognition of human activities](https://doi.org/10.1109/ICIP.2015.7351605) - J. Dai, B. Saghafi, J. Wu, J. Konrad, P. Ishwar.
-- [Attribute Preserved Face De-identification](https://doi.org/10.1109/ICB.2015.7139096) - A. Jourabloo, X. Yin, X. Liu.
+- [Attribute Preserved Face De-identification](https://doi.org/10.1109/ICB.2015.7139096) - A. Jourabloo, X. Yin, X. Liu - Authors propose an optimization-based method for face de-identification with the goal of changing the identity of a test image while preserving a large set of facial attributes. They combine the attribute classifiers and face verification classifier in a joint objective function.
 - [The Privacy-Utility Tradeoff for Remotely Teleoperated Robots](https://doi.org/10.1145/2696454.2696484) - D. J. Butler, J. Huang, F. Rosener, M. Cakmak.
 - [An Overview of Face De-identification in Still Images and Videos](https://doi.org/10.1109/FG.2015.7285017) - S. Ribaric, N. Pavesic - Authors perform a survey of existing de-identification methods, outline the main issues and provide motivation for the research of such methods.
 - [Controllable Face Privacy](https://doi.org/10.1109/FG.2015.7285018) - T. Sim, L. Zhang.
