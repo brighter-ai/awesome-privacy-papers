@@ -74,19 +74,19 @@ We want to share with you a curated list of machine/deep learning papers that ad
 
 ## 2006
 - [Model-Based Face De-Identification](https://doi.org/10.1109/CVPRW.2006.125) - R. Gross, L. Sweeney, F. de la Torre, S. Baker.
-- [People Identification with Limited Labels in Privacy-Protected Video](https://doi.org/10.1109/ICME.2006.262703) - Y. Chang, R. Yan, D. Chen, J. Yang.
+- [People Identification with Limited Labels in Privacy-Protected Video](https://doi.org/10.1109/ICME.2006.262703) - Y. Chang, R. Yan, D. Chen, J. Yang - Authors explore two-step labeling process for video data that balance the insufficient training data and the people privacy protection: one set of labeled data is provided by authorized personnel from original video and the other set of imperfect pairwise constraints is labeled by unauthorized personnel from original video with masked face. The effectiveness of the proposed approach is demonstrated using video captured from a nursing home environment.
 - [Blur Filtration Fails to Preserve Privacy for Home-Based Video Conferencing](https://doi.org/10.1145/1143518.1143519) - C. Neustaedter, S. Greenberg, M. Boyle.
 
 ## 2005
-- [Preserving Privacy by De-identifying Facial Images](https://doi.org/10.1109/TKDE.2005.32) - E. Newton, L. Sweeney, B. Malin.
+- [Preserving Privacy by De-identifying Facial Images](https://doi.org/10.1109/TKDE.2005.32) - E. Newton, L. Sweeney, B. Malin - This paper presents a new privacy-preserving algorithm for face recognition, named k-Same, that determines similarity between faces based on a distance metric and creates new faces by averaging image components, which may be the original image pixels (k-Same-Pixel) or eigenvectors (k-Same-Eigen). Authors also conduct research on related works and real-world privacy implications of their approach.
 - [Integrating Utility into Face De-Identification](https://doi.org/10.1007/11767831_15) - R. Gross, E. Airoldi, B. Malin, L. Sweeney.
 
 ## 2004
-- [Blinkering Surveillance: Enabling Video Privacy through Computer Vision](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.68.4555) - A. W. Senior, S. Pankanti, A. Hampapur, L. M. Brown, Y. Tian, A. Ekin.
+- [Blinkering Surveillance: Enabling Video Privacy through Computer Vision](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.68.4555) - A. W. Senior, S. Pankanti, A. Hampapur, L. M. Brown, Y. Tian, A. Ekin - Authors present a review of privacy topic in video surveillance and embody derived principles of privacy protection in a prototype system.
 - [Robust Human Face Hiding Ensuring Privacy](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4758) - I. Martinez-Ponte, X. Desurmont, J. Meessen, J-F. Delaigle.
 
 ## 2003
-- [Engineering Privacy in Public: Confounding Face Recognition](https://doi.org/10.1007/978-3-540-40956-4_7) - J. Alexander, J. M. Smith.
+- [Engineering Privacy in Public: Confounding Face Recognition](https://doi.org/10.1007/978-3-540-40956-4_7) - J. Alexander, J. M. Smith - The chief contribution of this paper is the empirical results of testing various face recognition countermeasures against the first of several systems - eigenfaces method, as well as a framework for interpreting those results.
 
 ## 2000
 - [The Effects of Filtered Video on Awareness and Privacy](https://doi.org/10.1145/358916.358935) - M. Boyle, C. Edwards, S. Greenberg.
