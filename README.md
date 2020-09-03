@@ -49,7 +49,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 
 ## 2017
 - [Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption](https://arxiv.org/abs/1704.02203) - R. Yonetani, V. N. Boddeti, K. M. Kitani, Y. Sato.
-- [Adversarial Image Perturbation for Privacy Protection: A Game Theory Perspective](https://arxiv.org/abs/1703.09471) - S. Joon Oh, M. Fritz, B. Schiele - Authors construct a game theoretical framework to study a system with two players, user and recogniser, with antagonistic goals and examine existing and new adversarial image perturbation techniques for the user.
+- [Adversarial Image Perturbation for Privacy Protection: A Game Theory Perspective](https://arxiv.org/abs/1703.09471) - S. Joon Oh, M. Fritz, B. Schiele - Authors construct a game theoretical framework to study a system with two players, user and recogniser, with antagonistic goals and examine existing and new adversarial image perturbation techniques for the user. [[code](https://github.com/coallaoh/AIP)]
 - [Semi-Adversarial Networks: Convolutional Autoencoders for Imparting Privacy to Face Images](https://arxiv.org/abs/1712.00321) - V. Mirjalili, S. Raschka, A. Namboodiri, A. Ross.
 - [Soft Biometric Privacy: Retaining Biometric Utility of Face Images while Perturbing Gender](https://doi.org/10.1109/BTAS.2017.8272743) - V. Mirjalili, A. Ross - Authors propose a method that entails iteratively perturbing a given face image, such that the performance of the face matcher is not adversely affected, but that of the soft biometric classifier is confounded.
 
