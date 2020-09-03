@@ -44,7 +44,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 
 ## 2018
 - [Learning to Anonymize Faces for Privacy Preserving Action Detection](https://arxiv.org/abs/1803.11556) - Z. Ren, Y. Jae Lee, M. S. Ryoo - Authors present a novel approach to learn a face anonymizer and activity detector using an adversarial learning formulation. The end result is a video anonymizer that performs pixel-level modifications to anonymize each person’s face, with minimal effect on action detection performance.
-- [On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs](https://arxiv.org/abs/1811.07104) - S. Banerjee, W. J. Scheirer, K. W. Bowyer, P. J. Flynn.
+- [On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs](https://arxiv.org/abs/1811.07104) - S. Banerjee, W. J. Scheirer, K. W. Bowyer, P. J. Flynn - Authors propose a multi-scale GAN model that can synthesize realistic context (forehead, hair, neck, clothes) and background pixels given a masked face input, without any user supervision. The generated face images can be used as stock images by the media without any privacy concerns.
 - [Privacy-Protective-GAN for Face De-identification](https://arxiv.org/abs/1806.08906) - Y. Wu, F. Yang, H. Ling - Authors present a generative approach, which integrates de-identification metric into the objective function to ensure privacy protection, while it retains utility and visual similarity with a regulator.
 
 ## 2017
@@ -66,7 +66,6 @@ We want to share with you a curated list of machine/deep learning papers that ad
 - [An Overview of Face De-identification in Still Images and Videos](https://doi.org/10.1109/FG.2015.7285017) - S. Ribaric, N. Pavesic - Authors perform a survey of existing de-identification methods, outline the main issues and provide motivation for the research of such methods.
 - [Controllable Face Privacy](https://doi.org/10.1109/FG.2015.7285018) - T. Sim, L. Zhang - Authors apply a subspace decomposition onto face encoding scheme, effectively decoupling facial attributes such as gender, age, and identity into mutually orthogonal subspaces, which in turn enables independent control of these attributes. This approach protects identity privacy, and yet allows other computer vision analyses, such as gender detection, to proceed unimpeded.
 - [Learning to Anonymize Faces for Privacy Preserving Action Detection](https://arxiv.org/abs/1803.11556) - Z. Ren, Y. Jae Lee, M. S. Ryoo.
-- [On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs](https://arxiv.org/abs/1811.07104) - S. Banerjee, W. J. Scheirer, K. W. Bowyer, P. J. Flynn - Authors propose a multi-scale GAN model that can synthesize realistic context (forehead, hair, neck, clothes) and background pixels given a masked face input, without any user supervision. The generated face images can be used as stock images by the media without any privacy concerns.
 - [Privacy-Protective-GAN for Face De-identification](https://arxiv.org/abs/1806.08906) - Y. Wu, F. Yang, H. Ling.
 
 ## 2014
