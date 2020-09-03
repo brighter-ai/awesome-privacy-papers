@@ -43,9 +43,9 @@ We want to share with you a curated list of machine/deep learning papers that ad
 - [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/abs/1908.05932) - Y. Nirkin, Y. Keller, T. Hassner - Authors present Face Swapping GAN (FSGAN) for face swapping and reenactment, which can be applied to pairs of faces without requiring training on those faces and works both with single image and video sequence ([code](https://github.com/YuvalNirkin/fsgan)).
 
 ## 2018
-- [Learning to Anonymize Faces for Privacy Preserving Action Detection](https://arxiv.org/abs/1803.11556) - Z. Ren, Y. Jae Lee, M. S. Ryoo.
+- [Learning to Anonymize Faces for Privacy Preserving Action Detection](https://arxiv.org/abs/1803.11556) - Z. Ren, Y. Jae Lee, M. S. Ryoo - Authors present a novel approach to learn a face anonymizer and activity detector using an adversarial learning formulation. The end result is a video anonymizer that performs pixel-level modifications to anonymize each person’s face, with minimal effect on action detection performance.
 - [On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs](https://arxiv.org/abs/1811.07104) - S. Banerjee, W. J. Scheirer, K. W. Bowyer, P. J. Flynn.
-- [Privacy-Protective-GAN for Face De-identification](https://arxiv.org/abs/1806.08906) - Y. Wu, F. Yang, H. Ling.
+- [Privacy-Protective-GAN for Face De-identification](https://arxiv.org/abs/1806.08906) - Y. Wu, F. Yang, H. Ling - Authors present a generative approach, which integrates de-identification metric into the objective function to ensure privacy protection, while it retains utility and visual similarity with a regulator.
 
 ## 2017
 - [Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption](https://arxiv.org/abs/1704.02203) - R. Yonetani, V. N. Boddeti, K. M. Kitani, Y. Sato.
