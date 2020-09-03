@@ -49,7 +49,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 
 ## 2017
 - [Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption](https://arxiv.org/abs/1704.02203) - R. Yonetani, V. N. Boddeti, K. M. Kitani, Y. Sato.
-- [Adversarial Image Perturbation for Privacy Protection: A Game Theory Perspective](https://arxiv.org/abs/1703.09471) - S. Joon Oh, M. Fritz, B. Schiele - Authors construct a game theoretical framework to study a system with two players, user and recogniser, with antagonistic goals and examine existing and new adversarial image perturbation techniques for the user. ([code](https://github.com/coallaoh/AIP))
+- [Adversarial Image Perturbation for Privacy Protection: A Game Theory Perspective](https://arxiv.org/abs/1703.09471) - S. Joon Oh, M. Fritz, B. Schiele - Authors construct a game theoretical framework to study a system with two players, user and recogniser, with antagonistic goals and examine existing and new adversarial image perturbation techniques for the user. [[code](https://github.com/coallaoh/AIP)]
 - [Semi-Adversarial Networks: Convolutional Autoencoders for Imparting Privacy to Face Images](https://arxiv.org/abs/1712.00321) - V. Mirjalili, S. Raschka, A. Namboodiri, A. Ross.
 - [Soft Biometric Privacy: Retaining Biometric Utility of Face Images while Perturbing Gender](https://doi.org/10.1109/BTAS.2017.8272743) - V. Mirjalili, A. Ross - Authors propose a method that entails iteratively perturbing a given face image, such that the performance of the face matcher is not adversely affected, but that of the soft biometric classifier is confounded.
 
@@ -57,7 +57,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 - [Privacy-CNH: A Framework to Detect Photo Privacy with Convolutional Neural Network using Hierarchical Features](https://www.cs.rochester.edu/u/jliu/paper/privacy-AAAI-2016.pdf) - L. Tram, D. Kong, H. Jin, J. Liu.
 - [Privacy-Preserving Human Activity Recognition from Extreme Low Resolution](https://arxiv.org/abs/1604.03196) - M. S. Ryoo, B. Rothrock, C. Fleming, H. J. Yang - Authors address human activity recognition while only using extreme low-resolution videos using an approach of *inverse super resolution*, with the intention of creating a computer vision system, that can recognize human activities and assist our daily life, yet ensure that it is not recording video, that may invade our privacy.
 - [Faceless Person Recognition: Privacy Implications in Social Media](https://arxiv.org/abs/1607.08438) - S. J. Oh, R. Benenson, M. Fritz, B. Schiele.
-- [De-identification for Privacy Protection in Multimedia Content: A Survey](https://doi.org/10.1016/j.image.2016.05.020) - S. Ribaric, A. Ariyaeeinia, N. Pavesic - In an extensive survey, authors present de-identification of various non-biometric as well as behavioural  and physiological identifiers. They announce some new directions in the de-identification research and point out the problems of detecting and removing social and environmental privacy sensitive context.
+- [De-identification for Privacy Protection in Multimedia Content: A Survey](https://doi.org/10.1016/j.image.2016.05.020) - S. Ribaric, A. Ariyaeeinia, N. Pavesic - In an extensive survey, authors present de-identification of various non-biometric as well as behavioural and physiological identifiers. They announce some new directions in the de-identification research and point out the problems of detecting and removing social and environmental privacy sensitive context.
 
 ## 2015
 - [Towards privacy-preserving recognition of human activities](https://doi.org/10.1109/ICIP.2015.7351605) - J. Dai, B. Saghafi, J. Wu, J. Konrad, P. Ishwar.
@@ -73,8 +73,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 - [Face De-Identification](https://doi.org/10.1007/978-1-84882-301-3_8) - R. Gross, L. Sweeney, J. Cohn, F. de la Torre, S. Baker.
 
 ## 2006
-- [Model-Based Face De-Identification](https://doi.org/10.1109/CVPRW.2006.125) - R. Gross, L. Sweeney, F. de la Torre, S. Baker - Authors introduce an algorithm for the protection of privacy in facial images, called *k*-Same-M algorithm, with focus on better image quality than its predecessors.
-
+- [Model-Based Face De-Identification](https://doi.org/10.1109/CVPRW.2006.125) - R. Gross, L. Sweeney, F. de la Torre, S. Baker - Authors improve on an algorithm for the protection of privacy in facial images, called *k*-Same-M algorithm, with focus on better image quality than its predecessors.
 - [People Identification with Limited Labels in Privacy-Protected Video](https://doi.org/10.1109/ICME.2006.262703) - Y. Chang, R. Yan, D. Chen, J. Yang.
 - [Blur Filtration Fails to Preserve Privacy for Home-Based Video Conferencing](https://doi.org/10.1145/1143518.1143519) - C. Neustaedter, S. Greenberg, M. Boyle - Authors begin by reinterpreting the result of previous study (Boyle et al. 2000), stating that bluring the video does not balance privacy and awareness for risky situations, since people do not feel comfortable with relying on such techniques. Secondly, they outline a set of design implications that suggest strategies for balancing privacy and awareness.
 
