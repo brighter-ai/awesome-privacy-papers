@@ -11,6 +11,7 @@ We want to share with you a curated list of machine/deep learning papers that ad
 
 ## Contents
 
+- [2022](#2022)
 - [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
@@ -25,6 +26,8 @@ We want to share with you a curated list of machine/deep learning papers that ad
 - [2003](#2003)
 - [2000](#2000)
 
+## 2022
+- [DeepPrivacy2: Towards Realistic Full-Body Anonymization](https://arxiv.org/abs/2211.09454) - H. Hukkelas, F. Lindseth - Authors show a anonymization framework (DeepPrivacy2) for realistic anonymization of human figures and faces. Is based on a style-based GAN that outputs high quality and editable anonymizations. A new dataset for human figure synthesis is introduced. [[code](https://github.com/hukkelas/deep_privacy2)]
 
 ## 2020
 - [PE-MIU: A Training-Free Privacy-Enhancing Face Recognition Approach Based on Minimum Information Units](https://doi.org/10.1109/ACCESS.2020.2994960) - P. Terhörst, K. Riehl , N. Damer, P. Rot, B. Bortolato, F. Kirchbuchner, V. Struc, A. Kuijper - Authors improve on training-free privacy-preserving face recognition approach based on dividing a face template into several minimum information units (MIUs) blocks and randomly changing their position in the template. [[code](https://github.com/pterhoer/PrivacyPreservingFaceRecognition/blob/master/training_free/pe_miu/privacy_enhancing_miu.py)]
